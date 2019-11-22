@@ -1,0 +1,50 @@
+10/11/2019 17:06:07 PM FEED MONEY: $2.0 $2.00
+
+10/11/2019 17:06:07 PM FEED MONEY: $2.0 $4.00
+
+10/11/2019 17:06:07 PM Potato Crisps A1 $4.0
+
+10/11/2019 17:06:07 PM GIVE CHANGE: Your change is 3 quarters and 2 dimes $0.00
+
+10/11/2019 17:46:26 PM FEED MONEY: $5.0 $5.00
+
+10/11/2019 17:46:26 PM Stackers A2 $5.0
+
+10/11/2019 17:46:26 PM Potato Crisps A1 $0.0
+
+10/11/2019 17:46:26 PM FEED MONEY: $2.0 $2.00
+
+10/11/2019 17:46:26 PM Stackers A2 $2.0
+
+10/11/2019 17:46:26 PM GIVE CHANGE: Your change is 2 quarters and 1 nickel $0.00
+
+10/11/2019 17:49:36 PM FEED MONEY: $10.0 $10.00
+
+10/11/2019 17:49:36 PM Cloud Popcorn A4 $10.0
+
+10/11/2019 17:49:36 PM GIVE CHANGE: Your change is 25 quarters and 1 dime $0.00
+
+10/13/2019 13:15:19 PM FEED MONEY: $10.0 $10.00
+
+10/13/2019 13:15:19 PM Potato Crisps A1 $10.0
+
+10/13/2019 13:15:19 PM Stackers A2 $0.0
+
+10/13/2019 13:15:19 PM FEED MONEY: $5.0 $5.00
+
+10/13/2019 13:15:19 PM Stackers A2 $5.0
+
+10/13/2019 13:15:19 PM GIVE CHANGE: Your change is 14 quarters and 1 nickel $0.00
+
+10/13/2019 13:24:27 PM FEED MONEY: $10.0 $10.00
+
+10/13/2019 13:24:27 PM Stackers A2 $10.0
+
+10/13/2019 13:24:27 PM FEED MONEY: $10.0 $10.00
+
+10/13/2019 13:24:27 PM Triplemint D4 $10.0
+
+10/13/2019 13:24:27 PM Wonka Bar B3 $10.0
+
+10/13/2019 13:24:27 PM GIVE CHANGE: Your change is 34 quarters $0.00
+
